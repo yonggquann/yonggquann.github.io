@@ -23,7 +23,7 @@ avatar_image: /img/ds_image Cropped.png
 #-------------------------------
 # Contact links
 linkedln: "https://www.linkedin.com/in/yong-quan-thong-fmva/" # Add your linkedln handle
-github: "yonggquann.github.io"  # Add your github handle
+github: "https://github.com/yonggquann"  # Add your github handle
 
 paginate: 6
 paginate_path: "/page/:num"
