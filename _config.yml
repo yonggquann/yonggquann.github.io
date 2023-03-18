@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Thong Yong Quan, Danny
-description: "Hi I'm Danny, and I'm a aspiring Data Scientist.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
+description: "Hi I'm Yong Quan, Danny, and I'm a aspiring Data Science Pratitioner.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://github.com/yonggquann/yonggquann.github.io/blob/master/docs/TYQ_CV_2023_Marc.pdf" # the base hostname & protocol for your site, e.g. http://example.com
 
